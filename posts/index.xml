@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hello world</title>
+    <link>https://heecastle.github.io/posts/</link>
+    <description>Recent content in Posts on Hello world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© heecastle</copyright>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://heecastle.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello world</title>
+      <link>https://heecastle.github.io/posts/hee/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://heecastle.github.io/posts/hee/</guid>
+      <description>#111&#xA;#222&#xA;dddddddddddddd dddddddddd ddddd</description>
+    </item>
+    <item>
+      <title>사실은 거짓말입니다.</title>
+      <link>https://heecastle.github.io/posts/hee2/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://heecastle.github.io/posts/hee2/</guid>
+      <description>#111&#xA;#222&#xA;dddddddddddddd dddddddddd ddddd</description>
+    </item>
+  </channel>
+</rss>
